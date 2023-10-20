@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=zhangkai803&color=brightgreen&style=plastic&label=PROFILE+VIEWS&base=1024)
+
 [My Github Page](https://zhangkai803.github.io/)
 
 ![](https://raw.githubusercontent.com/zhangkai803/github-stats/master/generated/overview.svg#gh-dark-mode-only)
