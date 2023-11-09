@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=zhangkai803&color=brightgreen&style=plastic&label=PROFILE+VIEWS&base=1024)
 
 - 😄 My name is **Kai Zhang**.
-- 👨 Pronounced as **He/Him**
 - ✨ I'm **28 years old**.
 - 🔭 I’m currently working on **Python Web Development**.
 - 🌱 I'm learning **Rust**.
