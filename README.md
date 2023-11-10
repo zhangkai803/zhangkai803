@@ -15,6 +15,7 @@
 ![](https://raw.githubusercontent.com/zhangkai803/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zhangkai803/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/zhangkai803/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zhangkai803&theme=transparent&card_width=355&border=00000017&fire=EB5454)](https://git.io/streak-stats)
 
 <!--
 **zhangkai803/zhangkai803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
